@@ -5,8 +5,7 @@ Run once after enabling multi-user auth to assign existing data to the admin.
 
 Usage:
     python scripts/claim_ownerless.py admin@example.com
-"""
-
+""" esse codigo ficou muito bom, parabens
 import sys
 import os
 import json
